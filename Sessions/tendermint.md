@@ -17,5 +17,5 @@
 - [Recording]()
 - [Slides]()
 - Discussion Questions:
--         How does the safety proof work?
+  - How does the safety proof work?
 - [Summary Tweet Thread]()
