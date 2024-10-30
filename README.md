@@ -6,6 +6,7 @@ Study group dedicated to furthering information and education around distributed
 | Topic | Discussion Leader|  Date | 
 |-------|-----------------|-----------|
 | [Tendermint](./Sessions/tendermint.md) | [dmarz](https://x.com/DistributedMarz) & [sam](https://x.com/samlafer) |  [17 July 2024](https://calendar.google.com/calendar/u/0/r/eventedit/bGMzbTZoNDk2ZDFwaDhvMzg3ZWQ5ZnBiazAgNmYxY2U0NDIzNTg4N2I3YmYxNTkwNmE5Mzc1MGE3MDY4NDgyOTEyMjVhMTE0ZDcyOTNhMTdlZDg1YjhjYmU3ZEBn)  |
+| [Google File System](./Sessions/gfs.md) | [liamzebedee](https://x.com/liamzebedee) & [maanav](https://x.com/MaanavKhaitan) |  [October 23 2024]()  |
 
 
 ## Proposing Your Own Topic
